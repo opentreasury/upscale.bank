@@ -6,7 +6,7 @@
 
 #include <sstream>
 #include <unordered_set>
-#include "../UpscaeCoinConfig.h"
+#include "../UpscaleCoinConfig.h"
 #include "../Common/CommandLine.h"
 #include "../Common/Util.h"
 #include "../Common/StringTools.h"

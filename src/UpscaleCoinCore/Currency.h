@@ -8,7 +8,7 @@
 #include <string>
 #include <vector>
 #include <boost/utility.hpp>
-#include "../UpscaeCoinConfig.h"
+#include "../UpscaleCoinConfig.h"
 #include "../crypto/hash.h"
 #include "../Logging/LoggerRef.h"
 #include "UpscaleCoinBasic.h"
