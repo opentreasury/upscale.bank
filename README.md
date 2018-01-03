@@ -1,5 +1,7 @@
 # Upscale Coin
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cc572aaff25647fcbea2fd02feb4cc93)](https://www.codacy.com/app/upscaletech/upscale.bank?utm_source=github.com&utm_medium=referral&utm_content=upscaletech/upscale.bank&utm_campaign=badger)
+
 This is the reference code for [UPSACLECOIN](https://upscalebank.org) UPSCALE COIN protocol.
 
 Copyright (c) 2017 The Upscale Bank Project.
