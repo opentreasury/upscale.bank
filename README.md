@@ -4,6 +4,8 @@ This is the reference code for [UPSACLECOIN](https://upscalebank.org) UPSCALE CO
 
 Copyright (c) 2017 The Upscale Bank Project.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4875edfcc7d743e8b86dfaa7ea1f8898)](https://www.codacy.com/app/upscaletech/upscale.bank?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=upscaletech/upscale.bank&amp;utm_campaign=Badge_Grade)
+
 
 ## Development Resources
 
