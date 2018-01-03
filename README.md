@@ -60,4 +60,8 @@ cmake -G "Visual Studio 12 Win64" ..
 ```
 
 And then do Build.
+<<<<<<< HEAD
 Good luck!
+=======
+Good luck!
+>>>>>>> 37d85ba2c623a8898d3f585c1c7476f20f56ea95
