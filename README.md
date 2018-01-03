@@ -1,4 +1,4 @@
-# Upscale Coin
+# Upscale Coin(Things will break WORK IN PROGRESS)
 
 This is the reference code for [UPSACLECOIN](https://upscalebank.org) UPSCALE COIN protocol.
 
@@ -6,7 +6,7 @@ Copyright (c) 2017 The Upscale Bank Project.
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4875edfcc7d743e8b86dfaa7ea1f8898)](https://www.codacy.com/app/upscaletech/upscale.bank?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=upscaletech/upscale.bank&amp;utm_campaign=Badge_Grade)
 
-## Development Resources
+## Development Resources(WIP)
 
 -  Web: [upscalebank.org](https://upsscalebank.org)
 -  Forum: [forum.upscalebank.org](https://forum.upscalebank.org)
@@ -14,16 +14,16 @@ Copyright (c) 2017 The Upscale Bank Project.
 -  Github: [https://github.com/upscaletech/upscale.bank](https://github.com/upscaletech/upscale.bank)
 -  IRC/Chat: [upscalcoin.slack.com](https://upscalecoin.slack.com)
 
-## Vulnerability response
+## Vulnerability response(WIP)
 
 - Our [Vulnerability Response Process](https://github.com/upscaltech/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) encourages responsible disclosure
-- We are also available via [HackerOne](https://hackerone.com/monero)
+- We are also available via [HackerOne](https://hackerone.com/upscalecoin)
  
 
 
 
 
-## Building UPSCALE COIN 
+## Building UPSCALE COIN (WIP)
 
 ### On *nix
 
@@ -60,8 +60,4 @@ cmake -G "Visual Studio 12 Win64" ..
 ```
 
 And then do Build.
-<<<<<<< HEAD
 Good luck!
-=======
-Good luck!
->>>>>>> 37d85ba2c623a8898d3f585c1c7476f20f56ea95
