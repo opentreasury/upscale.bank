@@ -1,4 +1,13 @@
+#pragma once
+
+
 #define BUILD_COMMIT_ID "@VERSION@"
 #define PROJECT_VERSION "1.1.1"
 #define PROJECT_VERSION_BUILD_NO "1"
 #define PROJECT_VERSION_LONG PROJECT_VERSION "." PROJECT_VERSION_BUILD_NO "(" BUILD_COMMIT_ID ")"
+
+
+extern const char* const UPSCALECOIN_VESION_TAG;
+extern const char* const UPSCALECOIN_VESION;
+extern const char* const UPSCALECOIN_RELEASE_NAME;
+extern const char* const UPSCALECOIN_VESION_FULL;
